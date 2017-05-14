@@ -7,8 +7,8 @@ https://github.com/commaai/panda
 
 Requirements
 ------
-Python 2 or 3 Should work
-libusb1 (technically unused but the module requires it.)
+- Python 2 or 3 Should work
+- libusb1 (technically unused but the module requires it.)
 
 Utilities
 ------
