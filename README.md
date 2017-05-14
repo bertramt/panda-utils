@@ -17,4 +17,4 @@ Utilities
 
 Extra
 ------
-- [raw_output.txt](https://github.com/bertramt/panda-utils/blob/master/extra/raw_output.txt)  -- Sample of the raw unparced data.
+- [raw_output.txt](https://github.com/bertramt/panda-utils/blob/master/extra/raw_output.txt)  -- Sample of the raw unparsed data.
