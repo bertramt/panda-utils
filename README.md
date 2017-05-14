@@ -13,8 +13,8 @@ Requirements
 
 Utilities
 ------
-- raw_data.py       -- This is a script that dumps the raw data.
+- [raw_data.py](https://github.com/bertramt/panda-utils/blob/master/raw_data.py)  -- This is a script that dumps the raw data.
 
 Extra
 ------
-- raw_output.txt    -- Sample of the raw unparced data.
+- [raw_output.txt](https://github.com/bertramt/panda-utils/blob/master/extra/raw_output.txt)  -- Sample of the raw unparced data.
