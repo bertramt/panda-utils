@@ -7,10 +7,14 @@ https://github.com/commaai/panda
 
 Requirements
 ------
-- Linux (So far I haven't gotten this to work on windows YMMV)
+- Linux (So far I haven't gotten this to work on Windows YMMV)
 - Python 2 or 3 Should work
 - libusb1 (technically unused but the module requires it.)
 
 Utilities
 ------
-- raw_data.py   -- This is a script that dumps the raw data.
+- raw_data.py       -- This is a script that dumps the raw data.
+
+Extra
+------
+- raw_output.txt    -- Sample of the raw unparced data.
